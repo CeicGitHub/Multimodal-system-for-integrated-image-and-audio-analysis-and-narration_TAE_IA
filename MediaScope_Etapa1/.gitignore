@@ -1,0 +1,36 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+
+# Herramientas y editores
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Credenciales y configuración local
+.env
+*.key
+*.token
+
+# Cachés y pesos de modelos
+.cache/
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Resultados generados
+outputs/*
+!outputs/.gitkeep
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
