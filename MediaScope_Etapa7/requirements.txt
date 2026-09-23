@@ -1,0 +1,7 @@
+gradio>=5.49,<7
+Pillow>=10,<13
+ultralytics>=8.4,<9
+transformers>=4.49,<5
+librosa>=0.11,<1
+soundfile>=0.13,<1
+scipy>=1.13,<2
